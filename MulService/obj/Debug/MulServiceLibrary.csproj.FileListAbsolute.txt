@@ -1,0 +1,5 @@
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulService\bin\Debug\MulServiceLibrary.dll.config
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulService\bin\Debug\MulServiceLibrary.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulService\bin\Debug\MulServiceLibrary.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulService\obj\Debug\MulServiceLibrary.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulService\obj\Debug\MulServiceLibrary.pdb

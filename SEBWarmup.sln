@@ -34,6 +34,10 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyServiceHost", "..\..\..\.
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulServiceLibrary", "MulService\MulServiceLibrary.csproj", "{9EBE4E2A-6785-445E-9D54-0292869A9418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulServiceHost", "MulServiceHost\MulServiceHost.csproj", "{7C18C807-3521-4A42-A2F4-1E1AA59C73C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +64,14 @@ Global
 		{3EDF0054-BBF5-4E9F-B524-CAEAF31F8F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EDF0054-BBF5-4E9F-B524-CAEAF31F8F6A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{3EDF0054-BBF5-4E9F-B524-CAEAF31F8F6A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{9EBE4E2A-6785-445E-9D54-0292869A9418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBE4E2A-6785-445E-9D54-0292869A9418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBE4E2A-6785-445E-9D54-0292869A9418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBE4E2A-6785-445E-9D54-0292869A9418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C18C807-3521-4A42-A2F4-1E1AA59C73C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C18C807-3521-4A42-A2F4-1E1AA59C73C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C18C807-3521-4A42-A2F4-1E1AA59C73C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C18C807-3521-4A42-A2F4-1E1AA59C73C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
