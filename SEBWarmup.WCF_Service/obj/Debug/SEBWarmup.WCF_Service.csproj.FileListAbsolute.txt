@@ -3,3 +3,6 @@ C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\bin\Debug\S
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\bin\Debug\SEBWarmup.WCF_Service.pdb
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\obj\Debug\SEBWarmup.WCF_Service.dll
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\obj\Debug\SEBWarmup.WCF_Service.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\bin\Debug\SEBWarmup.Model.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\bin\Debug\SEBWarmup.Model.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WCF_Service\obj\Debug\SEBWarmup.WCF_Service.csprojResolveAssemblyReference.cache
