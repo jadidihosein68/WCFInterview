@@ -139,3 +139,9 @@ C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.pdb
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.Migrations.initial.resources
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.csproj.GenerateResource.Cache
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.Migrations.Add_Test_Model.resources
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\bin\System.Net.Http.Formatting.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\bin\System.Web.Http.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\bin\System.Web.Http.WebHost.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\bin\System.Net.Http.Formatting.xml
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\bin\System.Web.Http.xml
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\bin\System.Web.Http.WebHost.xml

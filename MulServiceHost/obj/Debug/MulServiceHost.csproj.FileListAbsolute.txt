@@ -1,0 +1,8 @@
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\bin\MulServiceHost.dll.config
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\bin\MulServiceHost.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\bin\MulServiceHost.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\bin\MulServiceLibrary.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\bin\MulServiceLibrary.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\obj\Debug\MulServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\obj\Debug\MulServiceHost.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\MulServiceHost\obj\Debug\MulServiceHost.pdb

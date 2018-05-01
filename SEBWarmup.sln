@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEBWarmup", "SEBWarmup\SEBWarmup.csproj", "{0A5FD470-5C6F-4774-8C20-18684F168FD4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C18C807-3521-4A42-A2F4-1E1AA59C73C3} = {7C18C807-3521-4A42-A2F4-1E1AA59C73C3}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEBWarmup.Interfaces", "Interfaces\SEBWarmup.Interfaces.csproj", "{6BEE6B22-04D8-4585-982E-5764536649EA}"
 EndProject
