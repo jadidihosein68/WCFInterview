@@ -1,0 +1,6 @@
+C:\Users\Hosein\Source\Repos\2015\SebWarmup\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Hosein\Source\Repos\2015\SebWarmup\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hosein\Source\Repos\2015\SebWarmup\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Hosein\Source\Repos\2015\SebWarmup\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Hosein\Source\Repos\2015\SebWarmup\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Hosein\Source\Repos\2015\SebWarmup\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
