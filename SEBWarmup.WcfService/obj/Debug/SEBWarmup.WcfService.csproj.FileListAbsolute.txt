@@ -1,0 +1,8 @@
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\bin\Debug\SEBWarmup.WcfService.dll.config
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\bin\Debug\SEBWarmup.WcfService.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\bin\Debug\SEBWarmup.WcfService.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\bin\Debug\Interfaces.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\bin\Debug\Interfaces.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\obj\Debug\SEBWarmup.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\obj\Debug\SEBWarmup.WcfService.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup.WcfService\obj\Debug\SEBWarmup.WcfService.pdb

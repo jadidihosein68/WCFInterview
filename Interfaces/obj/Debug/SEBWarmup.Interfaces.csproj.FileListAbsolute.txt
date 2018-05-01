@@ -1,0 +1,5 @@
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\Interfaces\obj\Debug\SEBWarmup.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\Interfaces\obj\Debug\Interfaces.pdb
