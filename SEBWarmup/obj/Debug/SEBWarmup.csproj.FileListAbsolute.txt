@@ -138,3 +138,4 @@ C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.dll
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.pdb
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.Migrations.initial.resources
 C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.csproj.GenerateResource.Cache
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SEBWarmup\obj\Debug\SEBWarmup.Migrations.Add_Test_Model.resources
