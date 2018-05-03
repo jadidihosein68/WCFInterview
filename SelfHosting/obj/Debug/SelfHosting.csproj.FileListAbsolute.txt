@@ -1,0 +1,8 @@
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\obj\Debug\SelfHosting.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\bin\Debug\MulServiceLibrary.dll
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\bin\Debug\MulServiceLibrary.pdb
+C:\Users\Hosein\Source\Repos\2015\WCFInterview\SelfHosting\obj\Debug\SelfHosting.csprojResolveAssemblyReference.cache
