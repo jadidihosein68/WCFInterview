@@ -73,7 +73,7 @@ namespace SelfHosting
 
             // for multiple binding 
             Uri TCPbaseAddress = new Uri("net.tcp://localhost:9998"); // create base address 
-            Uri HTTPbaseAddress = new Uri("http://localhost:9999"); // create base address 
+            Uri HTTPbaseAddress = new Uri("http://localhost:9999/httpendpoint"); // create base address 
             ServiceHost sh = new ServiceHost(typeof(MulService), new Uri[] { TCPbaseAddress, HTTPbaseAddress }); // service object 
 
             ServiceEndpoint TCPServiceEndpoint = sh.AddServiceEndpoint(typeof(IMulService), new NetTcpBinding(), TCPbaseAddress);
@@ -84,8 +84,12 @@ namespace SelfHosting
             //ServiceEndpoint se = sh.AddServiceEndpoint(typeof(IMulService), new WSHttpBinding(),baseAddress);
             // (contract, binding, Address )
             ServiceMetadataBehavior smb = new ServiceMetadataBehavior();
-            smb.HttpGetEnabled = true;
+            smb.HttpGetEnabled = false;
             sh.Description.Behaviors.Add(smb); // add behaviod to the sh
+
+            ServiceEndpoint httpmex = sh.AddServiceEndpoint(typeof(IMetadataExchange), MetadataExchangeBindings.CreateMexHttpBinding(), "http://localhost:9999/mex");
+
+
             sh.Open();
             getresult(sh);
             sh.Close();
@@ -130,8 +134,9 @@ namespace SelfHosting
         {
 
             //single();
-          //  multiple();
-            multipleModified();
+            //  multiple();
+            multipleMEx();
+            // multipleModified();
 
 
         }
