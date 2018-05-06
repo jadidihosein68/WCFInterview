@@ -14,6 +14,10 @@ namespace MulServiceLibrary
         [OperationContract]
 
         int Mul(int a, int b);
+
+
+        [OperationContract]
+        int div(int a, int b);
     }
 
     // Use a data contract as illustrated in the sample below to add composite types to service operations.

@@ -23,5 +23,25 @@ namespace SEBWarmup.Controllers.API
 
         }
 
+
+
+
+        [Route("api/Tes")]
+        //http://localhost:1589/api/Test
+        [HttpGet]
+        public IHttpActionResult testapi()
+        {
+
+
+           
+          MulServiceClient MSC = new MulServiceClient("BasicHttpBinding_IMulService");
+
+            //var result 
+
+            return Ok();
+
+        }
+
+
     }
 }
