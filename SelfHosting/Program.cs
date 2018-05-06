@@ -38,6 +38,33 @@ namespace SelfHosting
 
 
 
+        public static void multipleModified()
+        {
+
+            // for multiple binding 
+            Uri TCPbaseAddress = new Uri("net.tcp://localhost:9998"); // create base address 
+            Uri HTTPbaseAddress = new Uri("http://localhost:9999"); // create base address 
+            ServiceHost sh = new ServiceHost(typeof(MulService), new Uri[] { TCPbaseAddress, HTTPbaseAddress }); // service object 
+
+            ServiceEndpoint TCPServiceEndpoint = sh.AddServiceEndpoint(typeof(IMulService), new NetTcpBinding(), TCPbaseAddress);
+
+            var basicHttpbinding = new BasicHttpBinding();
+            basicHttpbinding.CloseTimeout = new TimeSpan(0,10,30);
+
+                        ServiceEndpoint HTTPServiceEndpoint = sh.AddServiceEndpoint(typeof(IMulService), basicHttpbinding, HTTPbaseAddress);
+
+
+
+            //ServiceEndpoint se = sh.AddServiceEndpoint(typeof(IMulService), new WSHttpBinding(),baseAddress);
+            // (contract, binding, Address )
+            ServiceMetadataBehavior smb = new ServiceMetadataBehavior();
+            smb.HttpGetEnabled = true;
+            sh.Description.Behaviors.Add(smb); // add behaviod to the sh
+            sh.Open();
+            getresult(sh);
+            sh.Close();
+
+        }
 
 
 
@@ -87,10 +114,11 @@ namespace SelfHosting
 
             foreach (var item in sh.Description.Endpoints)
             {
-                Console.WriteLine("started ...");
+                Console.WriteLine("started ///////////////////////////");
                 Console.WriteLine($"Address : {item.Address.ToString()}");
                 Console.WriteLine($"Binding : {item.Binding.Name.ToString()}");
                 Console.WriteLine($"Contract : {item.Contract.ContractType.ToString()}");
+                Console.WriteLine($"close time out : {item.Binding.CloseTimeout}");
 
             }
             Console.ReadLine();
@@ -102,8 +130,8 @@ namespace SelfHosting
         {
 
             //single();
-            multiple();
-
+          //  multiple();
+            multipleModified();
 
 
         }
